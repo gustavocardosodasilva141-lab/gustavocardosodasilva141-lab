@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner-gustavo-github.png" alt="Banner de Gustavo Cardoso Silva — estudante de ADS e desenvolvedor em formação" width="100%" />
+</div>
+
+<div align="center">
 
 # Gustavo Cardoso Silva
 
