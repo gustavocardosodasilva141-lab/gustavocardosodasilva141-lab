@@ -1,80 +1,137 @@
+<div align="center">
+
 # Gustavo Cardoso Silva
 
-### Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor em formação
+### `Desenvolvedor em formação` · Análise e Desenvolvimento de Sistemas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ADS-2º%20semestre-2563eb?style=for-the-badge" alt="ADS - 2º semestre" />
-  <img src="https://img.shields.io/badge/UNICID-Universidade%20Cidade%20de%20São%20Paulo-0f766e?style=for-the-badge" alt="UNICID" />
+<p>
+  <img src="https://img.shields.io/badge/🎓_ADS-2º_semestre-2563eb?style=for-the-badge" alt="ADS, segundo semestre" />
+  <img src="https://img.shields.io/badge/UNICID-São_Paulo-0f766e?style=for-the-badge" alt="UNICID" />
+  <img src="https://komarev.com/ghpvc/?username=gustavocardosodasilva141-lab&style=for-the-badge&color=blueviolet&label=VISITAS+AO+PERFIL" alt="Visualizações do perfil" />
 </p>
 
-Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Estou construindo minha trajetória na tecnologia com foco em aprender na prática, experimentar ideias e transformar os conteúdos da graduação em projetos.
+**Aprender • Construir • Testar • Evoluir**
 
-Neste momento, estou fortalecendo minha base em desenvolvimento web, lógica de programação e banco de dados. Também estou explorando diferentes áreas para descobrir em qual delas quero me especializar.
+</div>
 
 ---
 
-## 🧩 O que estou desenvolvendo
-
-| Área | Meu foco atual |
-|---|---|
-| **Desenvolvimento web** | Estruturação de páginas, estilos, responsividade e interatividade |
-| **Lógica de programação** | Pensamento computacional, resolução de problemas e construção de funcionalidades |
-| **Banco de dados** | SQL, modelagem relacional e organização de informações |
-| **Tecnologia e inovação** | Exploração de ferramentas, inteligência artificial e novas possibilidades de desenvolvimento |
-
-## 🛠️ Ferramentas e tecnologias
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
-
-<sub>Estas são ferramentas que já aparecem nos meus estudos e projetos. Meu conhecimento está em construção e evolui a cada atividade.</sub>
-
----
-
-## 🚀 Projetos acadêmicos
-
-Abaixo estão alguns trabalhos que fazem parte da minha trajetória de aprendizagem:
-
-| Projeto | Resumo | Tecnologias |
-|---|---|---|
-| **Confeitaria Shimas — AT1** | Site de confeitaria estruturado em cinco páginas. | HTML5, CSS3 |
-| **Implantação do Site — AT2** | Atividade de publicação de um site com GitHub Pages. | Git, GitHub Pages |
-| **Calculadora de IMC — AT3** | Aplicação que recebe peso e altura, calcula o IMC e apresenta uma classificação. | HTML5, CSS3, JavaScript |
-| **História dos Videogames — AT4** | Site temático com páginas sobre história, galeria e curiosidades. | HTML5, CSS3, Bootstrap |
-| **Síndrome do Progresso Forçado — AT5** | Site informativo sobre vigilância algorítmica no trabalho remoto, com gráficos e alternância de tema. | HTML5, CSS3, Bootstrap, JavaScript, Chart.js, Gemini |
-| **Trimix Sorveteria** | Documentação de requisitos e regras de negócio para gestão de vendas, caixa e estoque. | Modelagem de dados, SQL, MySQL |
-
-*Os projetos representam atividades acadêmicas e estudos. Nem todos estão publicados como aplicações em produção.*
-
-## 🌱 No que quero evoluir
-
-- Consolidar fundamentos de programação e lógica.
-- Aprofundar meus conhecimentos em JavaScript e banco de dados.
-- Criar aplicações cada vez mais completas e responsivas.
-- Melhorar a organização, documentação e qualidade do código.
-- Conhecer diferentes áreas da tecnologia antes de definir uma especialização.
-
-## 🤝 Conecte-se comigo
-
-<p align="left">
-  <a href="https://github.com/gustavocardosodasilva141-lab">
-    <img src="https://img.shields.io/badge/GitHub-gustavocardosodasilva141--lab-181717?style=for-the-badge&logo=github" alt="Meu GitHub" />
-  </a>
-</p>
-
----
+## 🧭 Navegação
 
 <p align="center">
-  <i>Construindo conhecimento com curiosidade, prática e consistência.</i>
+  <a href="#-sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#-stack--ferramentas">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#-projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#-atividade-no-github">GitHub</a> &nbsp;·&nbsp;
+  <a href="#-próximos-passos">Objetivos</a>
 </p>
+
+## 👨‍💻 Sobre mim
+
+Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**.
+
+Estou construindo minha trajetória na tecnologia por meio de projetos acadêmicos e prática constante. Tenho explorado desenvolvimento web, lógica de programação e banco de dados, sempre buscando entender não apenas como escrever código, mas também como resolver problemas com ele.
+
+Atualmente, meu foco é fortalecer os fundamentos, experimentar ferramentas e descobrir em qual área quero me especializar.
+
+> "A melhor forma de aprender programação é transformar conhecimento em algo que funciona."
+
+## 🧰 Stack & ferramentas
+
+<div align="center">
+
+**DESENVOLVIMENTO WEB**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript e Bootstrap" />
+
+**DADOS & PROGRAMAÇÃO**
+
+<img src="https://skillicons.dev/icons?i=mysql,python" alt="MySQL e Python" />
+
+**VERSIONAMENTO & FERRAMENTAS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Consultas_e_modelagem-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Gemini-IA_aplicada-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Bootstrap-Interfaces_responsivas-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<sub>Ícones representam ferramentas que aparecem nos meus estudos e projetos; meu nível de experiência varia e está em desenvolvimento.</sub>
+
+## 🧪 Como penso ao desenvolver
+
+Gosto de dividir um problema em etapas antes de começar a programar:
+
+```javascript
+const meuProcesso = {
+  1: "Entender o problema",
+  2: "Planejar a solução",
+  3: "Escrever e organizar o código",
+  4: "Testar e corrigir",
+  5: "Documentar e melhorar"
+};
+
+console.log("Um passo de cada vez. 🚀");
+```
+
+## 🚀 Projetos
+
+Projetos acadêmicos e exercícios que representam etapas diferentes da minha aprendizagem.
+
+| Projeto | O que foi desenvolvido | Tecnologias |
+|:--|:--|:--|
+| **🍰 Confeitaria Shimas · AT1** | Site de confeitaria organizado em cinco páginas. | HTML5 · CSS3 |
+| **🌐 Implantação do Site · AT2** | Publicação de um site utilizando GitHub Pages. | Git · GitHub Pages |
+| **📊 Calculadora de IMC · AT3** | Entrada de peso e altura, cálculo e classificação do IMC. | HTML5 · CSS3 · JavaScript |
+| **🎮 História dos Videogames · AT4** | Site temático com história, galeria e curiosidades. | HTML5 · CSS3 · Bootstrap |
+| **🧠 Síndrome do Progresso Forçado · AT5** | Site sobre vigilância algorítmica no trabalho remoto, com gráficos e alternância de tema. | HTML · CSS · Bootstrap · JavaScript · Chart.js · Gemini |
+| **🍦 Trimix Sorveteria** | Requisitos e regras de negócio para vendas, caixa e estoque. | Modelagem · SQL · MySQL |
+
+<sub>Os itens acima são trabalhos acadêmicos e estudos. Nem todos estão publicados como aplicações em produção.</sub>
+
+## 📌 Repositórios
+
+Alguns espaços onde organizo meus estudos e trabalhos:
+
+- [📚 Projetos da faculdade](https://github.com/gustavocardosodasilva141-lab/Projetos-da-faculdade) — atividades e entregas acadêmicas.
+- [🐍 Aprendendo Python](https://github.com/gustavocardosodasilva141-lab/Aprendendo-Python) — exercícios e prática de programação.
+- [🌱 Sustentabilidade e Energia Limpa](https://github.com/gustavocardosodasilva141-lab/Sustenta-bilidade-Energia-Limpa) — projeto web sobre sustentabilidade.
+- [💼 Portfólio](https://github.com/gustavocardosodasilva141-lab/portfolio-gustavo-cardoso-silva) — espaço para apresentar minha evolução e projetos.
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavocardosodasilva141-lab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocardosodasilva141-lab&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais utilizadas" />
+</div>
+
+## 🎯 Próximos passos
+
+- [ ] Consolidar lógica de programação e fundamentos.
+- [ ] Evoluir na prática com JavaScript e Python.
+- [ ] Aprofundar SQL e modelagem de dados.
+- [ ] Desenvolver aplicações completas e responsivas.
+- [ ] Melhorar testes, documentação e organização de código.
+- [ ] Explorar diferentes áreas antes de escolher uma especialização.
+
+## 🤝 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/gustavocardosodasilva141-lab">
+  <img src="https://img.shields.io/badge/GitHub-Acompanhe_meus_projetos-181717?style=for-the-badge&logo=github" alt="Meu GitHub" />
+</a>
+
+<br/><br/>
+
+`github.com/gustavocardosodasilva141-lab`
+
+**Obrigado pela visita!** ✨
+
+<sub>Construindo conhecimento, commit por commit.</sub>
+
+</div>
